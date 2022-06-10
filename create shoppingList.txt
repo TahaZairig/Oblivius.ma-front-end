@@ -7,3 +7,6 @@
 - potatos
 - cucumber
 - mango
+- carrots
+- lkhyar
+- thon
