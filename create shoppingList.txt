@@ -1,8 +1,8 @@
-strawberries
-apples
-1 orange
-bananas
-watermelons
-tomatos
-potatos
+- strawberries
+- apples
+- 1 orange
+- bananas
+- watermelons
+- tomatos
+- potatos
 
