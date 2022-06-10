@@ -5,8 +5,14 @@
 - watermelons
 - tomatos
 - potatos
+
+- bread
+- zitoun
+- coffee
+
 - cucumber
 - mango
 - carrots
 - lkhyar
 - thon
+
