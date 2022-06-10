@@ -1,0 +1,5 @@
+strawberries
+apples
+oranges
+bananas
+cherries
