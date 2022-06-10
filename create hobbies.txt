@@ -2,3 +2,5 @@
 - tennis
 - swimming
 - basketball
+- drawing
+- singing 
