@@ -7,3 +7,5 @@ these are my chosen colors:
 - red
 - green
 - darkblue
+- pink
+- brown 
