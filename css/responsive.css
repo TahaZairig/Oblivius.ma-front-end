@@ -1,0 +1,473 @@
+@media (min-width: 1250px) {
+    .card-body img {
+        width: 500px;
+        height: 430px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .btn1 {
+        right: 2%;
+    }
+
+    nav {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .logo {
+        margin-left: -30px;
+        margin-right: 20px;
+        width: auto;
+        height: 33px;
+    }
+
+    .btn-solid-lg {
+        padding: 1rem 1.3rem;
+        margin-right: -20px;
+    }
+
+    span {
+        white-space: nowrap;
+    }
+
+    p.extra-lg-text {
+        font-size: 14px;
+    }
+
+    .box {
+        width: 90%;
+    }
+
+    /* s4 */
+    .bg-shadow {
+        margin-left: 25px;
+    }
+
+    /* s6 */
+    .cards {
+        height: 320px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .logo {
+        margin-left: 20px;
+    }
+
+    .navbar {
+        background: #161223 !important;
+        /* because of js change */
+        padding-top: 10px !important;
+        /* because of js change */
+    }
+
+    .btn1 {
+        margin-top: -1.5% !important;
+        /* because of js change */
+        right: 20px;
+    }
+
+    /* NAVIGATION FULL HEIGHT */
+    .nav-item {
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+
+    .nav-item:last-child {
+        padding-bottom: 250px;
+    }
+
+    /* NAVIGATION FULL HEIGHT */
+
+
+    .btn-solid-lg {
+        margin-left: -10px;
+    }
+
+    .header .btn-solid-lg {
+        float: none;
+    }
+
+    .h1-large {
+        font-size: 5rem;
+        line-height: 4.2rem;
+    }
+
+    .header a,
+    .header h3 {
+        margin-top: 70px;
+    }
+
+    .title-h2 {
+        font-size: 40px;
+    }
+
+    p.extra-lg-text {
+        font-size: 13px;
+    }
+
+    /* design */
+    .pattern,
+    .pattern_header,
+    .circle_blue,
+    .vertical-pattern1,
+    .vertical-pattern2,
+    .vertical-pattern3,
+    #cadre-pink1 {
+        display: none;
+    }
+
+    .box {
+        width: 96%;
+    }
+
+    .tab-pane {
+        margin-top: 100px;
+    }
+
+    /* s3 */
+    .row1 {
+        display: block;
+    }
+
+    .row2 {
+        display: none;
+    }
+
+    /* s4 */
+    .base-line,
+    .calque {
+        display: none;
+    }
+
+    .second-row {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .second-row div:nth-of-type(1) {
+        order: 3;
+    }
+
+    .second-row div:nth-of-type(2) {
+        order: 2;
+    }
+
+    .second-row div:nth-of-type(3) {
+        order: 1;
+    }
+
+    .number {
+        margin-top: 100px;
+        left: 67%;
+    }
+
+    .bg-shadow {
+        margin-left: 34%;
+    }
+
+
+    /* s6 */
+    .cards {
+        height: 240px;
+        width: 82%;
+        margin-left: 9%;
+    }
+
+    .patient {
+        bottom: 30px;
+    }
+
+
+
+    /* s7 */
+    .s7 img {
+        max-width: 120px;
+        margin-left: -10px;
+        margin-top: 60px;
+    }
+
+    .left-side,
+    .right-side {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+
+    /* s8 */
+    #map_canvas iframe {
+        width: 100%;
+        height: 300px;
+    }
+
+    .card {
+        margin-top: 0px;
+    }
+
+    .contact-form {
+        position: absolute;
+    }
+
+    .map-content {
+        margin-top: 500px;
+    }
+}
+
+@media (max-width: 767px) {
+    .s2 {
+        padding-top: 40px;
+    }
+
+    .logo {
+        margin-left: 5%;
+    }
+
+    .h1-large {
+        font-size: 50px;
+    }
+
+    .header .h1-large {
+        font-size: 4.5rem;
+        line-height: 3rem;
+    }
+
+    .header {
+        margin-left: -50px;
+    }
+
+    .header h3 {
+        margin-top: 70px;
+        margin-left: 10%;
+    }
+
+    /* s2 */
+    .text-container,
+    .text-container .title-h2,
+    .text-container .title-h3,
+    .extra-lg-text {
+        text-align: center;
+        float: unset;
+    }
+
+    .text-container .title-h2 {
+        font-size: 40px;
+    }
+
+    .text-container {
+        padding-top: 55%;
+    }
+
+    /* video */
+    .map-container {
+        margin-top: -720px;
+    }
+
+    /* s3 */
+    .tab-pane {
+        position: relative;
+        margin-top: 0px;
+    }
+
+    .s3 .col-md-6 {
+        text-align: center;
+    }
+
+    .right {
+        margin-top: -100px;
+    }
+
+    .left {
+        margin-top: -50px;
+    }
+
+    .container1 {
+        display: block;
+        opacity: 1;
+        position: relative;
+
+    }
+
+    .container2 {
+        display: none;
+        opacity: 0;
+        position: absolute;
+        pointer-events: none;
+    }
+
+    .container1 .title-h2 {
+        text-align: center;
+    }
+
+    /* s4 */
+    .number {
+        left: 80%;
+    }
+
+    .bg-shadow {
+        margin-left: 28%;
+    }
+
+    /* s6 */
+    .cards {
+        height: 260px;
+        width: 84%;
+        margin-left: 8%;
+    }
+
+    .patient {
+        bottom: 28px;
+    }
+
+    /* s7 */
+    .s7 img {
+        margin-left: 0px;
+        margin-top: 80px;
+    }
+
+    /* s8 */
+    .content {
+        display: flex;
+        justify-content: center;
+    }
+
+    .map-content {
+        width: 445px;
+        margin-left: -15px;
+    }
+
+    #map_canvas iframe {
+        border-radius: 10px;
+    }
+
+    .card-body {
+        width: 412px;
+    }
+
+    /* modal - 1 */
+    .design .modal-dialog1 {
+        width: 100%;
+        right: 0px;
+    }
+
+    /* modal - 2 */
+    .modal-content2 {
+        margin: 0;
+        width: 100%;
+    }
+
+    .devis-btn,
+    .infos {
+        display: block;
+    }
+
+    .devis-btn {
+        margin-left: -10px;
+        position: absolute;
+        margin-top: -200px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+    }
+
+    .devis-btn img {
+        top: 20px;
+    }
+
+    .infos {
+        padding-top: 120px;
+    }
+
+
+}
+
+@media (max-width: 576px) {
+    .header .h1-large {
+        font-size: 40px;
+    }
+
+    .logo {
+        height: 27px;
+    }
+
+    .header .h1-large {
+        font-size: 3.5rem;
+        line-height: 2.5rem;
+        margin-left: 50px;
+        margin-bottom: 30px
+    }
+
+    .header p {
+        font-size: 14px;
+        margin-left: 50px;
+    }
+
+    .header .btn-solid-lg {
+        float: none;
+    }
+
+    .map-container {
+        margin-top: -700px;
+    }
+
+    /* s4 */
+    .bg-shadow {
+        margin-left: 24%;
+    }
+
+    /* s6 */
+    .cards {
+        height: 280px;
+    }
+
+    .patient {
+        bottom: 25px;
+    }
+
+
+    /* s7 */
+    .s7 img {
+        margin-left: -40px;
+    }
+
+    /* s8 */
+    .map-content {
+        margin-top: 700px;
+        width: 445px;
+        margin-left: -15px;
+    }
+
+    #map_canvas iframe {
+        border-radius: 10px;
+    }
+
+    .card-body {
+        width: 412px;
+    }
+
+}
+
+@media (max-width: 390px) {
+    .s1 {
+        height: 100vh;
+    }
+
+    .header .header-content {
+        padding-top: 60px;
+    }
+
+    .logo {
+        width: 78px;
+        margin-left: -8px;
+    }
+
+    .header .btn-solid-lg {
+        margin-left: 50px;
+        margin-top: 0%;
+    }
+
+    /* s8 */
+    .map-content {
+        margin-top: 700px;
+    }
+}
