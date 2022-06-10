@@ -4,3 +4,6 @@ these are my chosen colors:
 - aqua 
 - blue
 - lightblue
+- red
+- green
+- darkblue
